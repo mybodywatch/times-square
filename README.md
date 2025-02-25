@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions about MyBodyWatch:
 - Visit our [website](https://mybodywatch.app)
 - Download the app on the [App Store](https://apps.apple.com/app/mybodywatch/id6474689088)
-- Follow us on [Twitter](https://twitter.com/mybodywatch)
+- Follow us on [Reddit](https://www.reddit.com/r/MyBodyWatch)
 
 <a href="https://apps.apple.com/app/mybodywatch/id6474689088">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" style="height: 60px;">
