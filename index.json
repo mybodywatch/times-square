@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-02-25T12:00:00Z",
+  "articles": [
+    {
+      "id": "welcome-to-mbw",
+      "title": "Welcome to MyBodyWatch",
+      "summary": "Get started with your personalized health tracking experience",
+      "category": "getting_started",
+      "publishDate": "2025-02-25T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/getting-started/welcome-to-mbw.md",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/welcome-card.jpg",
+      "featured": true,
+      "version": "1.0"
+    }
+  ]
+}

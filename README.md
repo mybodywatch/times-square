@@ -9,9 +9,9 @@ Welcome to Times Square, the official content repository for the [MyBodyWatch](h
 
 [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the-App%20Store-blue?logo=apple&style=flat-square)](https://apps.apple.com/app/mybodywatch/id6474689088)
 
-### About MyBodyWatch
+### About MyBodyWatch™
 
-MyBodyWatch is a wellness app that simplifies health tracking by generating a single, easy-to-understand score (0-10) that reflects your overall body state. The app:
+MyBodyWatch™ is a wellness app that simplifies health tracking by generating a single, easy-to-understand score (0-10) that reflects your overall body state. The app:
 
 - Analyzes your sleep, resting heart rate (RHR), and heart rate variability (HRV)
 - Creates personalized baselines unique to your body
@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions about MyBodyWatch:
 - Visit our [website](https://mybodywatch.app)
 - Download the app on the [App Store](https://apps.apple.com/app/mybodywatch/id6474689088)
-- Follow us on [Reddit](https://www.reddit.com/r/MyBodyWatch)
+- Follow us on [Twitter](https://twitter.com/mybodywatch)
 
 <a href="https://apps.apple.com/app/mybodywatch/id6474689088">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" style="height: 60px;">
