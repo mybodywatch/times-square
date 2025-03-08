@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-02-25T12:00:00Z",
+  "lastUpdated": "2025-03-08T12:00:00Z",
   "articles": [
     {
       "id": "welcome-to-mbw",
@@ -12,6 +12,114 @@
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/getting-started/welcome-to-mbw.md",
       "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/welcome-card.jpg",
       "featured": true,
+      "version": "1.0"
+    },
+    {
+      "id": "understanding-your-baseline",
+      "title": "Understanding Your Personal Baseline",
+      "summary": "Learn how MyBodyWatch establishes YOUR unique normal ranges",
+      "category": "getting_started",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/getting-started/understanding-your-baseline.md",
+      "imageURL": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200",
+      "featured": true,
+      "version": "1.0"
+    },
+    {
+      "id": "recovery-score-explained",
+      "title": "Understanding Your Recovery Score",
+      "summary": "How MyBodyWatch calculates your 0-10 recovery score",
+      "category": "features",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/recovery-score-explained.md",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/score-display.jpg",
+      "featured": true,
+      "version": "1.0"
+    },
+    {
+      "id": "setting-custom-targets",
+      "title": "Customizing Your Recovery Targets",
+      "summary": "Learn how to set personalized targets for your recovery metrics",
+      "category": "features",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/setting-custom-targets.md",
+      "imageURL": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1200",
+      "featured": true,
+      "version": "1.0"
+    },
+    {
+      "id": "tracking-your-streaks",
+      "title": "Building Consistency with Streaks",
+      "summary": "How MyBodyWatch's streak feature helps you build healthy habits",
+      "category": "features",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/tracking-your-streaks.md",
+      "imageURL": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1200",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "personalizing-your-app",
+      "title": "Personalizing Your MyBodyWatch Experience",
+      "summary": "Customize your app with display preferences, notifications, and more",
+      "category": "features",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/personalizing-your-app.md",
+      "imageURL": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1200",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "feedback-and-feature-requests",
+      "title": "Share Your Feedback & Feature Ideas",
+      "summary": "Help shape the future of MyBodyWatch with the in-app feedback system",
+      "category": "features",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/feedback-and-feature-requests.md",
+      "imageURL": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "optimize-your-recovery",
+      "title": "5 Ways to Optimize Your Recovery",
+      "summary": "Evidence-based techniques to improve your recovery score",
+      "category": "techniques",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/techniques/optimize-your-recovery.md",
+      "imageURL": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1200",
+      "featured": true,
+      "version": "1.0"
+    },
+    {
+      "id": "hrv-science-explained",
+      "title": "The Science Behind HRV and Recovery",
+      "summary": "Understanding how heart rate variability reflects your recovery status",
+      "category": "science",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/hrv-science-explained.md",
+      "imageURL": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1200",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "why-real-time-rhr-matters",
+      "title": "Why Real-Time RHR Matters",
+      "summary": "How MyBodyWatch's approach to resting heart rate provides better insights",
+      "category": "science",
+      "publishDate": "2025-03-08T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/why-real-time-rhr-matters.md",
+      "imageURL": "https://images.unsplash.com/photo-1559000357-f6b52ddfcb99?q=80&w=1200",
+      "featured": false,
       "version": "1.0"
     }
   ]
