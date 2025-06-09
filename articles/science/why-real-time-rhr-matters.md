@@ -26,19 +26,36 @@ We examine your heart rate patterns in context with your activity levels, time o
 
 ## Why This Matters for Performance
 
-Research shows that acute RHR changes can predict:
+Research demonstrates multiple ways acute RHR changes can predict physiological status:
 
-- **Training Readiness**: Elevated morning RHR often precedes poor performance
-- **Recovery Status**: Prolonged post-exercise RHR elevation indicates incomplete recovery
-- **Adaptation Phase**: Decreasing RHR trend during a training block suggests positive adaptation
-- **Illness Risk**: Sudden RHR increases of 5+ BPM can precede illness by 24-48 hours
+- **Training Readiness**: Elevated morning RHR often precedes poor performance and indicates autonomic imbalance¹
+- **Recovery Status**: Prolonged post-exercise RHR elevation indicates incomplete parasympathetic reactivation and ongoing sympathetic dominance²
+- **Adaptation Phase**: Decreasing RHR trend during a training block suggests positive cardiovascular adaptation and improved fitness³
+- **Illness Risk**: Sudden RHR increases of 5+ BPM can precede illness by 24-48 hours, as elevated heart rate correlates with inflammatory biomarkers and immune activation⁴
 
 ## The Science of Cardiac Autonomic Recovery
 
-Your heart rate is regulated by your autonomic nervous system. During recovery from exercise or stress:
+Your heart rate is regulated by your autonomic nervous system. Research shows that during recovery from exercise or stress⁵:
 
-1. Parasympathetic reactivation gradually slows your heart rate
-2. Complete recovery is reflected in RHR returning to baseline
-3. Inadequate recovery keeps RHR elevated above baseline
+1. **Initial Fast Phase**: Parasympathetic reactivation rapidly decreases heart rate in the first minute post-exercise
+2. **Gradual Slow Phase**: Progressive sympathetic withdrawal and continued parasympathetic restoration occur over hours
+3. **Complete Recovery**: RHR returning to baseline indicates full autonomic balance restoration
+4. **Inadequate Recovery**: Persistently elevated RHR suggests ongoing sympathetic dominance and incomplete recovery
 
-MyBodyWatch™ captures these subtle but crucial changes that standard daily averages miss, giving you a more accurate picture of your body's true recovery status.
+The autonomic nervous system's response to exercise involves parasympathetic withdrawal during activity, followed by parasympathetic reactivation during recovery⁶. MyBodyWatch™ captures these subtle but crucial autonomic changes that standard daily averages miss, providing a more accurate picture of your body's true recovery status.
+
+---
+
+### References
+
+¹ Buchheit, M. (2014). Monitoring training status with HR measures: do all roads lead to Rome? *Frontiers in Physiology*, 5, 73.
+
+² Pecanha, T., et al. (2017). Cardiac autonomic responses during exercise and post-exercise recovery using heart rate variability and systolic time intervals. *Frontiers in Physiology*, 8, 301.
+
+³ Zhang, D., et al. (2023). Resting heart rate is a population-level biomarker of cardiorespiratory fitness: The Fenland Study. *PLOS ONE*, 18(5), e0285272.
+
+⁴ Natarajan, A., et al. (2020). Assessment of physiological signs associated with COVID-19 measured using wearable devices. *NPJ Digital Medicine*, 3, 156.
+
+⁵ Coote, J. H. (2010). Recovery of heart rate following intense dynamic exercise. *Experimental Physiology*, 95(3), 431-440.
+
+⁶ White, D. W., & Raven, P. B. (2014). Autonomic neural control of heart rate during dynamic exercise: revisited. *Journal of Physiology*, 592(12), 2491-2500.
