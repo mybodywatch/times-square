@@ -1,15 +1,4 @@
----
-title: "Building Consistency with Streaks"
-date: "2025-03-08"
-author: "MyBodyWatch Team"
-featured: false
----
-
-# Building Consistency with Streaks
-
 Consistency is the foundation of lasting health improvements. MyBodyWatch™ helps you maintain your momentum with our streak tracking feature.
-
-![Streak Counter](https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1200)
 
 ## How Streaks Work
 

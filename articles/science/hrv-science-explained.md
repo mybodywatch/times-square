@@ -1,15 +1,4 @@
----
-title: "The Science Behind HRV and Recovery"
-date: "2025-03-08"
-author: "Dr. Sarah Chen, Exercise Physiologist"
-featured: false
----
-
-# The Science Behind HRV and Recovery
-
 Heart Rate Variability (HRV) is a powerful biomarker that provides insights into your autonomic nervous system and overall recovery status. Let's explore the science that makes HRV such a valuable metric in the MyBodyWatch™ algorithm.
-
-![HRV Visualization](https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1200)
 
 ## Understanding Autonomic Balance
 

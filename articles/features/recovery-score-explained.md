@@ -1,15 +1,4 @@
----
-title: "Understanding Your Recovery Score"
-date: "2025-03-08"
-author: "MyBodyWatch Team"
-featured: true
----
-
-# Understanding Your Recovery Score
-
 MyBodyWatch™ simplifies health tracking with our proprietary 0-10 recovery score system. This single number tells you everything you need to know about your body's current recovery state.
-
-![Recovery Score Display](../images/score-display.jpg)
 
 ## How Your Score is Calculated
 

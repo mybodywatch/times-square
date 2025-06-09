@@ -1,15 +1,4 @@
----
-title: "Customizing Your Recovery Targets"
-date: "2025-03-08"
-author: "MyBodyWatch Team"
-featured: true
----
-
-# Customizing Your Recovery Targets
-
 While MyBodyWatch™ automatically establishes your personal baseline, you can further personalize your experience by setting custom targets for specific metrics.
-
-![Custom Targets](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1200)
 
 ## Why Set Custom Targets?
 

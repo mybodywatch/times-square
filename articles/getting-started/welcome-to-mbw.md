@@ -1,12 +1,8 @@
-# Welcome to MyBodyWatch™
-
 Thank you for downloading MyBodyWatch™! We're excited to help you better understand your body's recovery status and overall health through our simple, intuitive score system.
 
 ## What Makes MyBodyWatch™ Different
 
 MyBodyWatch simplifies health tracking by transforming complex metrics into a single, easy-to-understand score from 0-10. Instead of trying to interpret multiple data points yourself, our proprietary algorithm does the work for you.
-
-![MyBodyWatch Score Display](https://raw.githubusercontent.com/mybodywatch/times-square/main/images/score-display.jpg)
 
 ## Understanding Your Score
 

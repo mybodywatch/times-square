@@ -1,15 +1,4 @@
----
-title: "Share Your Feedback & Feature Ideas"
-date: "2025-03-08"
-author: "MyBodyWatch Team"
-featured: false
----
-
-# Share Your Feedback & Feature Ideas
-
 We built MyBodyWatch™ to help you understand your body better, and we're constantly improving the app based on your feedback.
-
-![User Feedback](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200)
 
 ## In-App Feedback System
 

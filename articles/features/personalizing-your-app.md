@@ -1,15 +1,4 @@
----
-title: "Personalizing Your MyBodyWatch Experience"
-date: "2025-03-08"
-author: "MyBodyWatch Team"
-featured: false
----
-
-# Personalizing Your MyBodyWatch Experience
-
 MyBodyWatch™ provides several ways to customize your app experience to match your preferences and lifestyle needs.
-
-![App Customization](https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1200)
 
 ## Display Preferences
 
