@@ -10,7 +10,7 @@
       "publishDate": "2025-02-25T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/getting-started/welcome-to-mbw.md",
-      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/welcome-card.jpg",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/welcome-screen.jpg",
       "featured": true,
       "version": "1.0"
     },
@@ -22,7 +22,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/getting-started/understanding-your-baseline.md",
-      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/baseline-chart.jpg",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/health-data.jpg",
       "featured": true,
       "version": "1.0"
     },
@@ -106,7 +106,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/hrv-science-explained.md",
-      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/hrv-chart.jpg",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/baseline-chart.jpg",
       "featured": false,
       "version": "1.0"
     },
@@ -118,7 +118,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/why-real-time-rhr-matters.md",
-      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/heart-monitor.jpg",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/heart-rate-monitor.jpg",
       "featured": false,
       "version": "1.0"
     }
