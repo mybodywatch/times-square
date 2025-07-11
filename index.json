@@ -22,7 +22,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/getting-started/understanding-your-baseline.md",
-      "imageURL": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/baseline-chart.jpg",
       "featured": true,
       "version": "1.0"
     },
@@ -46,8 +46,8 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/setting-custom-targets.md",
-      "imageURL": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1200",
-      "featured": true,
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/custom-targets.jpg",
+      "featured": false,
       "version": "1.0"
     },
     {
@@ -58,7 +58,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/tracking-your-streaks.md",
-      "imageURL": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1200",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/streaks-calendar.jpg",
       "featured": false,
       "version": "1.0"
     },
@@ -70,7 +70,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/personalizing-your-app.md",
-      "imageURL": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1200",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/app-settings.jpg",
       "featured": false,
       "version": "1.0"
     },
@@ -82,7 +82,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/features/feedback-and-feature-requests.md",
-      "imageURL": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/feedback-form.jpg",
       "featured": false,
       "version": "1.0"
     },
@@ -94,8 +94,8 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/techniques/optimize-your-recovery.md",
-      "imageURL": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1200",
-      "featured": true,
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/recovery-techniques.jpg",
+      "featured": false,
       "version": "1.0"
     },
     {
@@ -106,7 +106,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/hrv-science-explained.md",
-      "imageURL": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1200",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/hrv-chart.jpg",
       "featured": false,
       "version": "1.0"
     },
@@ -118,7 +118,7 @@
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/why-real-time-rhr-matters.md",
-      "imageURL": "https://images.unsplash.com/photo-1559000357-f6b52ddfcb99?q=80&w=1200",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/heart-monitor.jpg",
       "featured": false,
       "version": "1.0"
     }
