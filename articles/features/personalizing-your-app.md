@@ -15,7 +15,7 @@ To change your theme:
 3. Changes apply immediately
 
 ### Data Visualization
-Customize how your BodyWatch Score data is presented:
+Customize how your score data is presented:
 
 - **Simplified View**: Just the index and basic recommendation
 - **Detailed View**: Shows all metrics and trends
@@ -26,13 +26,13 @@ Customize how your BodyWatch Score data is presented:
 Tailor when and how MyBodyWatch™ communicates with you:
 
 ### Morning Summary
-Receive your daily BodyWatch Score right when you need it:
+Receive your daily score right when you need it:
 - Set your preferred time
 - Choose between basic score or detailed breakdown
 
 ### Trend Alerts
 Get notified about significant changes:
-- Index dropping below your specified threshold
+- Score dropping below your specified threshold
 - Consistent improvement trends
 - New streak milestones achieved
 
@@ -60,4 +60,4 @@ For users who want additional customization or to support development:
 - **Support Development**: Our subscription works as a "tip jar" to fund future features
 - **More Coming Soon**: Subscribers will be first to access new premium features as they're developed
 
-The core BodyWatch Score tracking experience remains fully functional without a subscription.
+The core score tracking experience remains fully functional without a subscription.

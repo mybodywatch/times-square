@@ -1,4 +1,4 @@
-Recovery isn't just about rest—it's about strategic practices that help your body rebuild and prepare for the next challenge. Use these evidence-based techniques to optimize your MyBodyWatch™ BodyWatch Score.
+Recovery isn't just about rest—it's about strategic practices that help your body rebuild and prepare for the next challenge. Use these evidence-based techniques to optimize your MyBodyWatch Score.
 
 ## 1. Prioritize Sleep Quality
 
@@ -9,7 +9,7 @@ Sleep is your body's prime recovery time¹. Research consistently shows optimal 
 - **Wind Down Routine**: Implement a 30-minute pre-sleep ritual without screens to support natural melatonin production
 - **Limit Stimulants**: Avoid caffeine after noon and alcohol close to bedtime as both can disrupt sleep architecture
 
-Your MyBodyWatch™ BodyWatch Score is heavily influenced by sleep quality—making this your highest-leverage tool for optimization.
+Your score is heavily influenced by sleep quality—making this your highest-leverage tool for optimization.
 
 ## 2. Strategic Nutrition Timing
 
@@ -25,7 +25,7 @@ Modern research has updated our understanding of nutrient timing:
 
 ## 3. Active Recovery Techniques
 
-When your BodyWatch Score indicates moderate levels:
+When your score indicates moderate levels:
 
 - **Zone 2 Training**: Light aerobic activity at 60-70% of maximum heart rate
 - **Mobility Work**: Dynamic stretching and joint mobilization
@@ -45,9 +45,9 @@ Temperature therapy shows promising but complex effects on recovery:
 
 - **Cold Exposure**: May reduce inflammation but can also blunt some training adaptations
 - **Heat Therapy**: Sauna sessions may improve circulation and heat shock protein production
-- **Individual Response**: Recovery modalities should be evaluated based on your personal MyBodyWatch™ BodyWatch Score response
+- **Individual Response**: Recovery modalities should be evaluated based on your personal score response
 
-**Important**: Recovery strategies should be individualized based on your training phase, goals, and MyBodyWatch™ BodyWatch Score patterns.
+**Important**: Recovery strategies should be individualized based on your training phase, goals, and your score patterns.
 
 ---
 

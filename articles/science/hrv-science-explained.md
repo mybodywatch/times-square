@@ -1,4 +1,4 @@
-Heart Rate Variability (HRV) is a powerful biomarker that provides insights into your autonomic nervous system and overall fitness status. Let's explore the science that makes HRV such a valuable metric in the MyBodyWatch™ BodyWatch Score algorithm.
+Heart Rate Variability (HRV) is a powerful biomarker that provides insights into your autonomic nervous system and overall fitness status. Let's explore the science that makes HRV such a valuable metric in the MyBodyWatch Score algorithm.
 
 ## Understanding Autonomic Balance
 

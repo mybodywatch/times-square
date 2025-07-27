@@ -28,8 +28,8 @@
     },
     {
       "id": "recovery-score-explained",
-      "title": "Understanding Your BodyWatch Score",
-      "summary": "How MyBodyWatch calculates your 0-10 BodyWatch Score",
+      "title": "Understanding Your MyBodyWatch Score",
+      "summary": "How MyBodyWatch calculates your 0-10 score",
       "category": "features",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
@@ -40,8 +40,8 @@
     },
     {
       "id": "setting-custom-targets",
-      "title": "Customizing Your BodyWatch Score Targets",
-      "summary": "Learn how to set personalized targets for your BodyWatch Score metrics",
+      "title": "Customizing Your Score Targets", 
+      "summary": "Learn how to set personalized targets for your score metrics",
       "category": "features",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
@@ -88,8 +88,8 @@
     },
     {
       "id": "optimize-your-recovery",
-      "title": "5 Ways to Optimize Your BodyWatch Score",
-      "summary": "Evidence-based techniques to improve your BodyWatch Score",
+      "title": "5 Ways to Optimize Your Score",
+      "summary": "Evidence-based techniques to improve your score",
       "category": "techniques",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "hrv-science-explained",
-      "title": "The Science Behind HRV and Your BodyWatch Score",
+      "title": "The Science Behind HRV and Your Score",
       "summary": "Understanding how heart rate variability reflects your fitness status",
       "category": "science",
       "publishDate": "2025-03-08T00:00:00Z",
@@ -119,6 +119,54 @@
       "expiryDate": null,
       "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/science/why-real-time-rhr-matters.md",
       "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/heart-rate-monitor.jpg",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "research-citations",
+      "title": "Research Citations & Scientific Methodology",
+      "summary": "Complete scientific citations and research foundations for MyBodyWatch methodology",
+      "category": "research",
+      "publishDate": "2025-01-27T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/research/research-citations.md",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/baseline-chart.jpg",
+      "featured": true,
+      "version": "1.0"
+    },
+    {
+      "id": "hrv-methodology",
+      "title": "HRV Measurement Methodology",
+      "summary": "Detailed explanation of heart rate variability measurement standards and scientific foundation",
+      "category": "research",
+      "publishDate": "2025-01-27T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/research/hrv-methodology.md",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/hrv-chart.jpg",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "sleep-science",
+      "title": "Sleep Science and Recovery Assessment",
+      "summary": "Scientific foundation of sleep quality measurement and its impact on recovery",
+      "category": "research",
+      "publishDate": "2025-01-27T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/research/sleep-science.md",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/heart-monitor.jpg",
+      "featured": false,
+      "version": "1.0"
+    },
+    {
+      "id": "data-collection",
+      "title": "Data Collection Methodology and Privacy",
+      "summary": "Comprehensive overview of data collection standards, privacy protections, and technical methodology",
+      "category": "research",
+      "publishDate": "2025-01-27T00:00:00Z",
+      "expiryDate": null,
+      "contentURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/articles/research/data-collection.md",
+      "imageURL": "https://raw.githubusercontent.com/mybodywatch/times-square/main/images/health-data.jpg",
       "featured": false,
       "version": "1.0"
     }

@@ -20,13 +20,13 @@ During your first 90 days with MyBodyWatch™:
 1. The app collects data on your HRV, resting heart rate, and sleep patterns
 2. Our algorithm identifies your typical ranges for each metric
 3. We establish what's normal for YOU specifically
-4. Your BodyWatch Score becomes increasingly personalized over time
+4. Your MyBodyWatch Score becomes increasingly personalized over time
 
-Even during this initial period, you'll receive BodyWatch Score scores, but they'll become more accurate as your baseline develops.
+Even during this initial period, you'll receive scores, but they'll become more accurate as your baseline develops.
 
-## Reading Your BodyWatch Score Against Your Baseline
+## Reading Your Score Against Your Baseline
 
-Your daily BodyWatch Score indicates how your current metrics compare to your personal baseline:
+Your daily score indicates how your current metrics compare to your personal baseline:
 
 - **8-10**: Well above your baseline (excellent territory)
 - **6-7**: Slightly above your baseline (good territory)
@@ -48,7 +48,7 @@ Your baseline isn't static—it adapts as you do:
 - Seasonal variations are factored into baseline calculations
 - Major life changes (new job, moving, etc.) will be incorporated
 
-This ensures your BodyWatch Score always provides relevant insights as your body and life evolve.
+This ensures your score always provides relevant insights as your body and life evolve.
 
 By understanding your personal baseline, you can make better decisions about when to push hard and when to prioritize rest, all based on YOUR unique physiology.
 
