@@ -28,8 +28,8 @@
     },
     {
       "id": "recovery-score-explained",
-      "title": "Understanding Your Recovery Score",
-      "summary": "How MyBodyWatch calculates your 0-10 recovery score",
+      "title": "Understanding Your BodyWatch Index",
+      "summary": "How MyBodyWatch calculates your 0-10 BodyWatch Index",
       "category": "features",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
@@ -40,8 +40,8 @@
     },
     {
       "id": "setting-custom-targets",
-      "title": "Customizing Your Recovery Targets",
-      "summary": "Learn how to set personalized targets for your recovery metrics",
+      "title": "Customizing Your BodyWatch Index Targets",
+      "summary": "Learn how to set personalized targets for your BodyWatch Index metrics",
       "category": "features",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
@@ -88,8 +88,8 @@
     },
     {
       "id": "optimize-your-recovery",
-      "title": "5 Ways to Optimize Your Recovery",
-      "summary": "Evidence-based techniques to improve your recovery score",
+      "title": "5 Ways to Optimize Your BodyWatch Index",
+      "summary": "Evidence-based techniques to improve your BodyWatch Index",
       "category": "techniques",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,
@@ -100,8 +100,8 @@
     },
     {
       "id": "hrv-science-explained",
-      "title": "The Science Behind HRV and Recovery",
-      "summary": "Understanding how heart rate variability reflects your recovery status",
+      "title": "The Science Behind HRV and Your BodyWatch Index",
+      "summary": "Understanding how heart rate variability reflects your fitness status",
       "category": "science",
       "publishDate": "2025-03-08T00:00:00Z",
       "expiryDate": null,

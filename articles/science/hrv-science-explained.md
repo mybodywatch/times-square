@@ -1,4 +1,4 @@
-Heart Rate Variability (HRV) is a powerful biomarker that provides insights into your autonomic nervous system and overall recovery status. Let's explore the science that makes HRV such a valuable metric in the MyBodyWatch™ algorithm.
+Heart Rate Variability (HRV) is a powerful biomarker that provides insights into your autonomic nervous system and overall fitness status. Let's explore the science that makes HRV such a valuable metric in the MyBodyWatch™ BodyWatch Index algorithm.
 
 ## Understanding Autonomic Balance
 
@@ -65,3 +65,7 @@ Beyond fitness, HRV is being studied for:
 ⁶ SimpliFaster. (2024). Interpreting HRV Trends in Athletes: High Isn't Always Good and Low Isn't Always Bad. https://simplifaster.com/articles/interpreting-hrv-trends-athletes/
 
 ⁷ Forte, G., et al. (2024). Heart rate variability and autonomic nervous system imbalance: Potential biomarkers and detectable hallmarks of aging and inflammaging. *Ageing Research Reviews*, 96, 102272.
+
+---
+
+**Important Notice**: This content is provided for educational purposes only and is not intended to diagnose, treat, cure, or prevent any disease or medical condition. MyBodyWatch is designed for general wellness and fitness tracking, not medical diagnosis or treatment. Always consult with qualified healthcare professionals regarding your health and before making any medical decisions. The information and metrics provided by MyBodyWatch should not be used as a substitute for professional medical advice, diagnosis, or treatment.

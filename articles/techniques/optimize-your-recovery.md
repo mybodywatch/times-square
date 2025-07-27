@@ -1,4 +1,4 @@
-Recovery isn't just about rest—it's about strategic practices that help your body rebuild and prepare for the next challenge. Use these evidence-based techniques to improve your MyBodyWatch™ recovery score.
+Recovery isn't just about rest—it's about strategic practices that help your body rebuild and prepare for the next challenge. Use these evidence-based techniques to optimize your MyBodyWatch™ BodyWatch Index.
 
 ## 1. Prioritize Sleep Quality
 
@@ -9,7 +9,7 @@ Sleep is your body's prime recovery time¹. Research consistently shows optimal 
 - **Wind Down Routine**: Implement a 30-minute pre-sleep ritual without screens to support natural melatonin production
 - **Limit Stimulants**: Avoid caffeine after noon and alcohol close to bedtime as both can disrupt sleep architecture
 
-Your MyBodyWatch™ score is heavily influenced by sleep quality—making this your highest-leverage recovery tool.
+Your MyBodyWatch™ BodyWatch Index is heavily influenced by sleep quality—making this your highest-leverage tool for optimization.
 
 ## 2. Strategic Nutrition Timing
 
@@ -25,7 +25,7 @@ Modern research has updated our understanding of nutrient timing:
 
 ## 3. Active Recovery Techniques
 
-When your score indicates moderate recovery needs:
+When your BodyWatch Index indicates moderate levels:
 
 - **Zone 2 Training**: Light aerobic activity at 60-70% of maximum heart rate
 - **Mobility Work**: Dynamic stretching and joint mobilization
@@ -45,9 +45,9 @@ Temperature therapy shows promising but complex effects on recovery:
 
 - **Cold Exposure**: May reduce inflammation but can also blunt some training adaptations
 - **Heat Therapy**: Sauna sessions may improve circulation and heat shock protein production
-- **Individual Response**: Recovery modalities should be evaluated based on your personal MyBodyWatch™ score response
+- **Individual Response**: Recovery modalities should be evaluated based on your personal MyBodyWatch™ BodyWatch Index response
 
-**Important**: Recovery strategies should be individualized based on your training phase, goals, and MyBodyWatch™ data patterns.
+**Important**: Recovery strategies should be individualized based on your training phase, goals, and MyBodyWatch™ BodyWatch Index patterns.
 
 ---
 
@@ -68,3 +68,7 @@ Temperature therapy shows promising but complex effects on recovery:
 ⁷ Helms, E. R., et al. (2014). Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11(1), 20.
 
 ⁸ Forte, G., et al. (2024). Heart rate variability and autonomic nervous system imbalance. *Ageing Research Reviews*, 96, 102272.
+
+---
+
+**Important Notice**: MyBodyWatch is designed for fitness tracking only. Not medical advice. Consult your healthcare provider for health decisions.

@@ -9,7 +9,7 @@ MyBodyWatch™ automatically tracks your login streaks:
 - Missing a day resets your streak to zero
 - Streaks are displayed on your dashboard
 
-This simple feature provides powerful motivation to check in daily and stay connected with your recovery metrics.
+This simple feature provides powerful motivation to check in daily and stay connected with your BodyWatch Index metrics.
 
 ## The Science of Habit Formation
 
@@ -38,4 +38,4 @@ These milestones appear as notifications and badges on your profile, providing e
 - **Create a trigger**: Pair app checking with another daily habit like brushing teeth
 - **Travel strategy**: Check in during transit when crossing time zones to avoid missing days
 
-Remember, the ultimate goal isn't just a long streak but the consistent awareness of your recovery status that the streak represents.
+Remember, the ultimate goal isn't just a long streak but the consistent awareness of your BodyWatch Index status that the streak represents.

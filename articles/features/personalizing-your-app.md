@@ -15,9 +15,9 @@ To change your theme:
 3. Changes apply immediately
 
 ### Data Visualization
-Customize how your recovery data is presented:
+Customize how your BodyWatch Index data is presented:
 
-- **Simplified View**: Just the score and basic recommendation
+- **Simplified View**: Just the index and basic recommendation
 - **Detailed View**: Shows all metrics and trends
 - **Graph Time Range**: Choose between 7, 30, or 90-day history views
 
@@ -26,13 +26,13 @@ Customize how your recovery data is presented:
 Tailor when and how MyBodyWatch™ communicates with you:
 
 ### Morning Summary
-Receive your daily recovery score right when you need it:
+Receive your daily BodyWatch Index right when you need it:
 - Set your preferred time
 - Choose between basic score or detailed breakdown
 
 ### Trend Alerts
 Get notified about significant changes:
-- Score dropping below your specified threshold
+- Index dropping below your specified threshold
 - Consistent improvement trends
 - New streak milestones achieved
 
@@ -60,4 +60,4 @@ For users who want additional customization or to support development:
 - **Support Development**: Our subscription works as a "tip jar" to fund future features
 - **More Coming Soon**: Subscribers will be first to access new premium features as they're developed
 
-The core recovery tracking experience remains fully functional without a subscription.
+The core BodyWatch Index tracking experience remains fully functional without a subscription.

@@ -20,25 +20,25 @@ During your first 90 days with MyBodyWatch™:
 1. The app collects data on your HRV, resting heart rate, and sleep patterns
 2. Our algorithm identifies your typical ranges for each metric
 3. We establish what's normal for YOU specifically
-4. Your recovery score becomes increasingly personalized over time
+4. Your BodyWatch Index becomes increasingly personalized over time
 
-Even during this initial period, you'll receive recovery scores, but they'll become more accurate as your baseline develops.
+Even during this initial period, you'll receive BodyWatch Index scores, but they'll become more accurate as your baseline develops.
 
-## Reading Your Score Against Your Baseline
+## Reading Your BodyWatch Index Against Your Baseline
 
-Your daily recovery score indicates how your current metrics compare to your personal baseline:
+Your daily BodyWatch Index indicates how your current metrics compare to your personal baseline:
 
-- **8-10**: Well above your baseline (excellent recovery)
-- **6-7**: Slightly above your baseline (good recovery)
-- **3-5**: Around your baseline (moderate recovery)
-- **0-2**: Below your baseline (limited recovery)
+- **8-10**: Well above your baseline (excellent territory)
+- **6-7**: Slightly above your baseline (good territory)
+- **3-5**: Around your baseline (moderate territory)
+- **0-2**: Below your baseline (lower territory)
 
 This personalized approach makes MyBodyWatch™ uniquely valuable for:
 
 - Athletes at any level
 - Fitness enthusiasts
 - Those managing stress or health conditions
-- Anyone wanting to optimize their recovery
+- Anyone wanting to optimize their fitness insights
 
 ## Refining Your Baseline Over Time
 
@@ -48,6 +48,10 @@ Your baseline isn't static—it adapts as you do:
 - Seasonal variations are factored into baseline calculations
 - Major life changes (new job, moving, etc.) will be incorporated
 
-This ensures your recovery score always provides relevant insights as your body and life evolve.
+This ensures your BodyWatch Index always provides relevant insights as your body and life evolve.
 
-By understanding your personal baseline, you can make better decisions about when to push hard and when to prioritize recovery, all based on YOUR unique physiology.
+By understanding your personal baseline, you can make better decisions about when to push hard and when to prioritize rest, all based on YOUR unique physiology.
+
+---
+
+**Important Notice**: MyBodyWatch is designed for fitness tracking only. Not medical advice. Consult your healthcare provider for health decisions.
