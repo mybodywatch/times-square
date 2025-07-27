@@ -11,12 +11,12 @@ Welcome to Times Square, the official content repository for the [MyBodyWatch](h
 
 ### About MyBodyWatch™
 
-MyBodyWatch™ is a wellness app that simplifies fitness tracking by generating a single, easy-to-understand BodyWatch Index (0-10) that reflects your overall body state. The app:
+MyBodyWatch™ is a wellness app that simplifies fitness tracking by generating a single, easy-to-understand BodyWatch Score (0-10) that reflects your overall body state. The app:
 
 - Analyzes your sleep, resting heart rate (RHR), and heart rate variability (HRV)
 - Creates personalized baselines unique to your body
-- Updates your BodyWatch Index throughout the day by combining multiple factors
-- Transforms complex health metrics into an actionable fitness index
+- Updates your BodyWatch Score throughout the day by combining multiple factors
+- Transforms complex health metrics into an actionable fitness score
 
 This approach helps you understand your body's fitness status without needing to interpret multiple complicated metrics on your own.
 

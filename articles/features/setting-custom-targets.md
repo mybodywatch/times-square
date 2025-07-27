@@ -14,13 +14,13 @@ Custom targets allow you to:
 To set custom targets:
 
 1. Open your MyBodyWatch™ app
-2. Navigate to Settings > BodyWatch Index Metrics
+2. Navigate to Settings > BodyWatch Score Metrics
 3. Select the metric you want to customize (HRV, RHR, Sleep)
 4. Tap "Set Custom Target"
 5. Adjust the slider to your desired target value
 6. Save your changes
 
-Your custom targets will override the automatic baseline calculations when determining your BodyWatch Index.
+Your custom targets will override the automatic baseline calculations when determining your BodyWatch Score.
 
 ## Target Recommendations
 
@@ -40,7 +40,7 @@ While you have complete flexibility, here are some evidence-based recommendation
 
 You can return to automatic baseline calculations at any time:
 
-1. Go to Settings > BodyWatch Index Metrics
+1. Go to Settings > BodyWatch Score Metrics
 2. Select the customized metric
 3. Tap "Reset to Automatic"
 

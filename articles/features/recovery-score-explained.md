@@ -1,8 +1,8 @@
-MyBodyWatch™ simplifies fitness tracking with a 0-10 BodyWatch Index system. This single number tells you everything you need to know about your body's current fitness status.
+MyBodyWatch™ simplifies fitness tracking with a 0-10 BodyWatch Score system. This single number tells you everything you need to know about your body's current fitness status.
 
-## How Your BodyWatch Index is Calculated
+## How Your BodyWatch Score is Calculated
 
-Your BodyWatch Index combines three critical fitness metrics:
+Your BodyWatch Score combines three critical fitness metrics:
 
 ### 1. Heart Rate Variability (HRV)
 HRV measures the variation in time between heartbeats, indicating your autonomic nervous system's balance. Higher HRV typically suggests better recovery and adaptation capacity.
@@ -15,16 +15,16 @@ Good sleep is essential for optimal performance. We analyze your sleep patterns 
 
 ## Your Personal Baseline
 
-What makes MyBodyWatch™ truly unique is our 90-day baseline approach. Instead of comparing you to generic population averages, we establish YOUR normal ranges for each metric. Your BodyWatch Index reflects deviations from your personal baseline, making it far more relevant to your individual physiology.
+What makes MyBodyWatch™ truly unique is our 90-day baseline approach. Instead of comparing you to generic population averages, we establish YOUR normal ranges for each metric. Your BodyWatch Score reflects deviations from your personal baseline, making it far more relevant to your individual physiology.
 
-## Interpreting Your BodyWatch Index
+## Interpreting Your BodyWatch Score
 
 - **8-10**: Excellent territory. Your body may be primed for high-intensity training or demanding activities.
 - **6-7**: Good territory. Consider moderate intensity activities that align with how you feel.
 - **3-5**: Mixed territory. May be best for light activity or gentle movement.
 - **0-2**: Lower territory. Consider focusing on rest or very light activity.
 
-Remember, consistently pushing through lower index scores may not be optimal for your long-term fitness goals. Consider using your BodyWatch Index alongside how you feel to guide your training and rest decisions.
+Remember, consistently pushing through lower index scores may not be optimal for your long-term fitness goals. Consider using your BodyWatch Score alongside how you feel to guide your training and rest decisions.
 
 ---
 

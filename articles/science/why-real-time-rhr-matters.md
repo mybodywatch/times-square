@@ -18,7 +18,7 @@ Rather than waiting for a daily average, we analyze heart rate data continuously
 
 ### Exercise Response Detection
 
-After a workout, your RHR will naturally be elevated. Our algorithm detects these post-exercise elevations and factors them into your BodyWatch Index, giving you immediate feedback on how your body is responding.
+After a workout, your RHR will naturally be elevated. Our algorithm detects these post-exercise elevations and factors them into your BodyWatch Score, giving you immediate feedback on how your body is responding.
 
 ### Contextual Analysis
 
