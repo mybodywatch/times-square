@@ -101,14 +101,16 @@ Scientific rationale for personal baselines over population norms:
 ### Wellness Pattern Analysis Methodology
 
 #### Multi-Metric Pattern Integration
-Your MyBodyWatch wellness index synthesizes:
-- **HRV Component** (40%): Pattern recognition from personal HRV baseline trends
+Your MyBodyWatch wellness index synthesizes multiple health domains following established multi-dimensional health assessment research:
+- **HRV Component** (40%): Pattern recognition from personal HRV baseline trends using standard RMSSD measurements
 - **RHR Component** (35%): Resting heart rate trend analysis vs. personal patterns
 - **Sleep Component** (25%): Sleep quality and duration pattern assessment
 
+Our approach is informed by research on multi-dimensional health indices (Yap et al., 2020) and multi-method wellness modeling (Agarwal et al., 2016).
+
 #### Pattern Analysis Framework
 - **Normalization**: Each wellness indicator scaled to 0-10 range based on personal baseline patterns
-- **Integration**: Research-informed weighting for each wellness component
+- **Integration**: Wellness component weighting based on multi-dimensional health research
 - **Smoothing**: Prevents dramatic index changes from single measurements
 - **Validation**: Cross-checks against established physiological wellness ranges
 

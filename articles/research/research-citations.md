@@ -69,11 +69,27 @@ MyBodyWatch uses a 90-day rolling baseline approach rather than population avera
 
 ### Multi-metric Pattern Integration
 
-Our wellness pattern analysis combines multiple validated health indicators:
+Our wellness pattern analysis combines multiple validated health indicators based on established multi-dimensional health assessment research:
 
-- **HRV (Time-domain analysis)**: Using established RMSSD pattern recognition per Task Force guidelines
+- **HRV (Time-domain analysis)**: Using established RMSSD calculations following Task Force measurement standards
 - **Resting Heart Rate**: Real-time analysis of heart rate trends throughout the day
 - **Sleep Quality**: Duration and efficiency pattern assessment based on sleep research standards
+
+**Multi-Dimensional Health Index Research**
+
+**"Development of a scalable and extendable multi-dimensional health index to measure the health of individuals"**  
+*Chun Wei Yap, Lixia Ge, Reuben Ong, Ruijie Li, Bee Hoon Heng*  
+BMC Public Health, 2020  
+[View Full Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7540893/)
+
+This research validates the approach of combining multiple health domains into normalized health indices, providing scientific foundation for multi-metric wellness assessment methodologies.
+
+**"Multi-method approach to wellness predictive modeling"**  
+*Ankur Agarwal, Christopher Baechle, Ravi S. Behara, Vinaya Rao*  
+Journal of Big Data, 2016  
+[View Full Article](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0049-0)
+
+Research demonstrating the effectiveness of combining multiple lifestyle and health components into comprehensive wellness scores using both medical expertise and data-driven approaches.
 
 ## Limitations and Considerations
 

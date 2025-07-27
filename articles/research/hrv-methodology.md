@@ -16,7 +16,7 @@ Our HRV analysis follows the established international standards:
 Task Force of the European Society of Cardiology, 1996  
 [PubMed: 8737210](https://pubmed.ncbi.nlm.nih.gov/8737210/)
 
-This foundational research established the measurement protocols used worldwide for HRV analysis in both research and clinical settings.
+This foundational research established the international measurement standards for HRV data collection and RMSSD calculation methods used worldwide in research and clinical settings.
 
 ### Modern Analysis Methods
 
