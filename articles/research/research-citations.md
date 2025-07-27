@@ -61,19 +61,19 @@ Official documentation for Apple's health data collection standards, privacy fra
 
 MyBodyWatch follows Apple's strict health data privacy guidelines. All health data remains on your device and is never transmitted to external servers without your explicit consent.
 
-## Scoring Methodology
+## Wellness Pattern Analysis Methodology
 
 ### Personalized Baseline Approach
 
-MyBodyWatch uses a 90-day rolling baseline approach rather than population averages. This methodology is based on research showing significant individual variation in physiological markers, making personalized baselines more accurate for individual assessment.
+MyBodyWatch uses a 90-day rolling baseline approach rather than population averages. This methodology is based on research showing significant individual variation in physiological markers, making personalized baselines more accurate for individual wellness pattern recognition.
 
-### Multi-metric Integration
+### Multi-metric Pattern Integration
 
-Our scoring algorithm combines multiple validated health markers:
+Our wellness pattern analysis combines multiple validated health indicators:
 
-- **HRV (Time-domain analysis)**: Using established RMSSD calculations per Task Force guidelines
-- **Resting Heart Rate**: Real-time analysis of heart rate patterns throughout the day
-- **Sleep Quality**: Duration and efficiency metrics based on sleep research standards
+- **HRV (Time-domain analysis)**: Using established RMSSD pattern recognition per Task Force guidelines
+- **Resting Heart Rate**: Real-time analysis of heart rate trends throughout the day
+- **Sleep Quality**: Duration and efficiency pattern assessment based on sleep research standards
 
 ## Limitations and Considerations
 

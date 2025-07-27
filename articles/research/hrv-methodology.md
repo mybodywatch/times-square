@@ -1,6 +1,6 @@
 # HRV Measurement Methodology
 
-Heart Rate Variability (HRV) is one of the core metrics in your MyBodyWatch Score. This article explains how HRV is measured, why it matters for recovery assessment, and the scientific standards we follow.
+Heart Rate Variability (HRV) is one of the core wellness indicators in your MyBodyWatch wellness index. This article explains how HRV is measured, why it matters for recovery pattern analysis, and the scientific standards we follow.
 
 ## What is HRV?
 
@@ -59,8 +59,8 @@ RMSSD is considered the gold standard for short-term HRV analysis because:
 - Might suggest elevated stress levels
 - Normal temporary response to training
 
-### Personal Baselines
-MyBodyWatch establishes YOUR normal HRV range over 90 days rather than comparing you to population averages. Research shows HRV varies significantly between individuals, making personal baselines far more meaningful.
+### Personal Wellness Baselines
+MyBodyWatch establishes YOUR normal HRV patterns over 90 days rather than comparing you to population averages. Research shows HRV varies significantly between individuals, making personal baseline patterns far more meaningful for wellness tracking.
 
 ## Research Supporting HRV for Recovery
 
@@ -90,8 +90,8 @@ The Task Force guidelines note that HRV analysis has proven valuable for:
 - Stress, caffeine, and alcohol can affect readings
 - Measurement quality depends on sensor contact and movement
 
-### Not Diagnostic
-HRV analysis in MyBodyWatch is designed for wellness and fitness tracking, not medical diagnosis. Significant changes in HRV patterns should be discussed with healthcare providers.
+### Educational Wellness Tool
+HRV pattern analysis in MyBodyWatch is designed for wellness and fitness tracking only, not medical diagnosis. This is an educational tool for understanding your personal wellness patterns. Significant changes in HRV should be discussed with healthcare providers.
 
 ## Technical Implementation
 

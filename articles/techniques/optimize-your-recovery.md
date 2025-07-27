@@ -55,7 +55,7 @@ Temperature therapy shows promising but complex effects on recovery:
 
 ¹ Walker, M. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner.
 
-² Sleep Foundation. (2024). The Best Temperature for Sleep. https://www.sleepfoundation.org/bedroom-environment/best-temperature-for-sleep
+² Sleep Foundation. (2024). The Best Temperature for Sleep. (See Research section for comprehensive sleep science citations)
 
 ³ Okamoto-Mizuno, K., & Mizuno, K. (2012). Effects of thermal environment on sleep and circadian rhythm. *Journal of Physiological Anthropology*, 31(1), 14.
 

@@ -98,19 +98,19 @@ Scientific rationale for personal baselines over population norms:
 4. **Adaptive Updates**: Rolling averages adjust gradually over time
 5. **Quality Validation**: Ensure baseline stability before score calculation
 
-### Score Calculation Methodology
+### Wellness Pattern Analysis Methodology
 
-#### Multi-Metric Integration
-Your MyBodyWatch Score combines:
-- **HRV Component** (40%): Deviation from personal HRV baseline
-- **RHR Component** (35%): Resting heart rate patterns vs. personal norm
-- **Sleep Component** (25%): Sleep quality and duration assessment
+#### Multi-Metric Pattern Integration
+Your MyBodyWatch wellness index synthesizes:
+- **HRV Component** (40%): Pattern recognition from personal HRV baseline trends
+- **RHR Component** (35%): Resting heart rate trend analysis vs. personal patterns
+- **Sleep Component** (25%): Sleep quality and duration pattern assessment
 
-#### Mathematical Framework
-- **Normalization**: Each metric scaled to 0-10 range based on personal baselines
-- **Weighting**: Research-informed weights for each component
-- **Smoothing**: Prevents dramatic score swings from single measurements
-- **Validation**: Cross-checks against established physiological ranges
+#### Pattern Analysis Framework
+- **Normalization**: Each wellness indicator scaled to 0-10 range based on personal baseline patterns
+- **Integration**: Research-informed weighting for each wellness component
+- **Smoothing**: Prevents dramatic index changes from single measurements
+- **Validation**: Cross-checks against established physiological wellness ranges
 
 ## Data Quality and Limitations
 
@@ -164,11 +164,11 @@ Baseline Calculation → Score Computation → Result Display
 
 ## Regulatory Compliance
 
-### Not a Medical Device
-MyBodyWatch is designed for general wellness and fitness purposes:
-- **FDA Classification**: Consumer wellness device, not medical diagnostic tool
-- **Clinical Use**: Not intended for medical diagnosis or treatment decisions
-- **Professional Consultation**: Users encouraged to discuss significant health changes with healthcare providers
+### Educational Wellness Tool
+MyBodyWatch is designed for general wellness and fitness education purposes:
+- **Classification**: Consumer wellness pattern analysis tool, not medical diagnostic device
+- **Educational Use**: Not intended for medical diagnosis or treatment decisions
+- **Professional Consultation**: Users encouraged to discuss significant health pattern changes with healthcare providers
 
 ### Research Ethics
 Our data collection follows established research ethics principles:
