@@ -106,7 +106,7 @@ Your MyBodyWatch wellness index synthesizes multiple health domains following es
 - **RHR Component** (35%): Resting heart rate trend analysis vs. personal patterns
 - **Sleep Component** (25%): Sleep quality and duration pattern assessment
 
-Our approach is informed by research on multi-dimensional health indices (Yap et al., 2020) and multi-method wellness modeling (Agarwal et al., 2016).
+Our approach follows established composite health assessment methodologies including allostatic load scoring (Rodriquez et al., 2019), composite fitness measures (Wagner et al., 2020), and validated health survey composite scores (Andersen et al., 2022).
 
 #### Pattern Analysis Framework
 - **Normalization**: Each wellness indicator scaled to 0-10 range based on personal baseline patterns

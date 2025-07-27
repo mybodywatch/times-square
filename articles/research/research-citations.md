@@ -75,21 +75,38 @@ Our wellness pattern analysis combines multiple validated health indicators base
 - **Resting Heart Rate**: Real-time analysis of heart rate trends throughout the day
 - **Sleep Quality**: Duration and efficiency pattern assessment based on sleep research standards
 
-**Multi-Dimensional Health Index Research**
+**Composite Health Assessment Research**
 
-**"Development of a scalable and extendable multi-dimensional health index to measure the health of individuals"**  
-*Chun Wei Yap, Lixia Ge, Reuben Ong, Ruijie Li, Bee Hoon Heng*  
-BMC Public Health, 2020  
-[View Full Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7540893/)
+**"Allostatic Load: Importance, Markers, and Score Determination in Minority and Disparity Populations"**  
+*Erik J Rodriquez, Edward N Kim, Anne E Sumner, Anna M Nápoles, Eliseo J Pérez-Stable*  
+International Journal of Environmental Research and Public Health, 2019  
+[View Full Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430278/)
 
-This research validates the approach of combining multiple health domains into normalized health indices, providing scientific foundation for multi-metric wellness assessment methodologies.
+This research validates composite scoring methodology that combines cardiovascular, metabolic, inflammatory, and neuroendocrine markers into a single "allostatic load" index to quantify cumulative physiological stress burden.
 
-**"Multi-method approach to wellness predictive modeling"**  
-*Ankur Agarwal, Christopher Baechle, Ravi S. Behara, Vinaya Rao*  
-Journal of Big Data, 2016  
-[View Full Article](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0049-0)
+**"Composite Measures of Physical Fitness to Discriminate Between Healthy Aging and Heart Failure: The COmPLETE Study"**  
+*Jonathan Wagner, Raphael Knaier, et al.*  
+Frontiers in Physiology, 2020  
+[View Full Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7770139/)
 
-Research demonstrating the effectiveness of combining multiple lifestyle and health components into comprehensive wellness scores using both medical expertise and data-driven approaches.
+Validated methodology for creating composite "Health Distance" measures from multiple physiological biomarkers across cardiovascular endurance, muscle strength, and neuromuscular function domains.
+
+**"Correlated physical and mental health composite scores for the RAND-36 and RAND-12 health surveys"**  
+*John Roger Andersen, Kyrre Breivik, Inger Elise Engelund, et al.*  
+Health and Quality of Life Outcomes, 2022  
+[View Full Article](https://hqlo.biomedcentral.com/articles/10.1186/s12955-022-01992-0)
+
+Research demonstrating validated approaches for combining multiple health subscales into composite physical and mental health scores through both weighted and unweighted methodologies.
+
+**Relevance to MyBodyWatch Methodology**
+
+These established research findings provide scientific foundation for our wellness pattern analysis approach:
+
+- **Allostatic Load methodology** validates combining cardiovascular (heart rate), metabolic, and stress markers into composite health indices
+- **COmPLETE Study methodology** demonstrates validated approaches for creating composite measures from physiological biomarkers including cardiovascular endurance markers
+- **RAND Health Survey methodology** shows that both weighted and unweighted approaches to combining health metrics can produce valid composite scores
+
+Our wellness index follows similar principles by combining cardiovascular (HRV, RHR) and recovery (sleep) indicators into a normalized 0-10 wellness pattern assessment.
 
 ## Limitations and Considerations
 
